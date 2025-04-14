@@ -29,5 +29,5 @@ A simple yet effective Python script that checks the strength of user passwords 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your-username>/password-strength-checker.git
+git clone[https://github.com/shanmukh-git7/password-strength-checker)/password-strength-checker.git
 cd password-strength-checker
